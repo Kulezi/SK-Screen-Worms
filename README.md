@@ -1,5 +1,4 @@
 # Screen worms
-<<<<<<< HEAD
 Client and server for a simple curvefever-like game made as an assignment for Computer Networks class at University of Warsaw.
 
 To start the server run
